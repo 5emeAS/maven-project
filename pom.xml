@@ -200,7 +200,14 @@
         <version>1.2.1</version>
         <scope>test</scope>
       </dependency>
-
+      
+      
+      <dependency>
+         <groupId>io.jenkins.plugins</groupId>
+         <artifactId>warnings-ng</artifactId>
+         <version>9.20.0</version>
+      </dependency>
+             
       <dependency>
         <groupId>org.hamcrest</groupId>
         <artifactId>hamcrest-library</artifactId>
